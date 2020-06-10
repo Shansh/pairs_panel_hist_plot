@@ -47,7 +47,7 @@ pairs(~H+X.Y+L+Wb+Wc+X.C+Y, data=df,
                                   "No.clusters", "Yield")) 
 ```
 
-Please 
+Chart should look like this
 
-![alt text](https://github.com/shansh23/pairs_panel_hist_plot/aronia_pomology.tiff)
+![alt text](https://github.com/Shansh/pairs_panel_hist_plot/aronia_pomology.jpg?raw=true)
 
